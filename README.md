@@ -10,4 +10,4 @@ A fully functional Python calculator supporting:
 ## Install
 
 ```bash
-pip install pycalculator
+pip install pycalculator-aniket
